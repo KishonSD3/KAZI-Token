@@ -1,4 +1,4 @@
-# KAZI-Token
+# KAZI-Token (KZI)
 Personal ERC-20 Token built with Solidity
 
 
