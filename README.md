@@ -9,4 +9,4 @@ KaziToken
 Compiler Version:
 v0.5.0+commit.1d4f565a
 
-Supply: 7,000,000,000
+Total Supply: 7,000,000,000
