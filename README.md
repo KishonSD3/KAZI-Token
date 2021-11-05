@@ -1,5 +1,5 @@
 # KAZI-Token (KZI)
-Personal ERC-20 Token built with Solidity
+ERC-20 Token built with Solidity
 
 
 Contract Name:
